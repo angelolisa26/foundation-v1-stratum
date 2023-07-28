@@ -1,5 +1,5 @@
 # Foundation Stratum
-
+1
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/blinkhash/foundation-stratum.svg?style=flat-square)](https://codecov.io/gh/blinkhash/foundation-stratum/)
 [![Foundation CI](https://github.com/blinkhash/foundation-stratum/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/blinkhash/foundation-stratum/actions/workflows/build.yml)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
